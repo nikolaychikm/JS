@@ -1,4 +1,1 @@
-# JS
-Javascript
-
-<code>var a = null</code>
+<code>JS</code>
