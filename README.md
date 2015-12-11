@@ -1,4 +1,4 @@
 # JS
 Javascript
 
-'var a = null'
+<code>var a = null</code>
